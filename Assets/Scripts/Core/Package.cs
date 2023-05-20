@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Core
+namespace AJierroCode.Core
 {
     public class Package : MonoBehaviour
     {
@@ -20,7 +20,7 @@ namespace Core
         public float PackageWeight
         {
             get => packageWeight;
-            set
+            private set
             {
                 if (value < 0.1f)
                 {

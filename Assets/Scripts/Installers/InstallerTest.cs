@@ -1,6 +1,6 @@
 using UnityEngine;
 using System;
-using Core;
+using AJierroCode.Core;
 using Zenject;
 
 namespace AJierroCode.Installers

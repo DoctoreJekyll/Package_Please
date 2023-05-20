@@ -1,7 +1,6 @@
-using System;
 using UnityEngine;
 
-namespace Core
+namespace AJierroCode.Core
 {
     public class StatesGameManager : MonoBehaviour
     {
